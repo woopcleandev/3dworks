@@ -1,0 +1,6 @@
+{
+  "name": "Conversor 3D Pro",
+  "description": "Conversor profissional de modelos 3D (WAD, OBJ, STL, PLY, OFF, STEP) no navegador com prévia 3D interativa e suporte completo a PWA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
